@@ -1,4 +1,5 @@
 ## Real-Time Webcam Depth Map (MiDaS + OpenCV)
+<img width="829" height="1024" alt="image" src="https://github.com/user-attachments/assets/d828fc5f-7b53-464a-ba56-d2e9d0dc0e90" />
 
 This project turns a normal webcam feed into a live depth-style view using Intel's MiDaS model.
 In simple words: it estimates which parts of the scene are closer or farther, then shows that as a color heatmap.
